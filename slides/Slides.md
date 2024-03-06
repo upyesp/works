@@ -1,10 +1,10 @@
 ---
 marp: true
 theme: custom-default
-footer: 'https://example.com'
+footer: 'https://upyesp.org'
 ---
 
-# My Presentation
+# Works in 2024
 ![bg right](https://picsum.photos/800/600)
 
 ---
